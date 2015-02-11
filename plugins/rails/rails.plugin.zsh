@@ -1,4 +1,4 @@
-function _rails_command () {
+.function _rails_command () {
   if [ -e "bin/rails" ]; then
     bin/rails $@
   elif [ -e "script/rails" ]; then
@@ -52,6 +52,11 @@ alias rdd='rake db:drop'
 alias rdtc='rake db:test:clone'
 alias rdtp='rake db:test:prepare'
 alias rdmtc='rake db:migrate db:test:clone'
+alias tld='tail -f log/development.log'
+alias tlt='tail -f log/test.log'
+alias rks='bundle exec rake spec'
+alias rkr='bundle exec rake routes'
+alias rkrg='bundle exec rake routes | grep'
 
 alias rlc='rake log:clear'
 alias rn='rake notes'

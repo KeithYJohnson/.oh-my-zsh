@@ -4,6 +4,7 @@ alias bp="bundle package"
 alias bo="bundle open"
 alias bu="bundle update"
 alias bi="bundle_install"
+alias b="bundle"
 
 bundled_commands=(
   annotate
