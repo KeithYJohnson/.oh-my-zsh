@@ -7,6 +7,7 @@ alias gd='git diff'
 compdef _git gd=git-diff
 alias gdc='git diff --cached'
 compdef _git gdc=git-diff
+alias gdom='git diff origin/master'
 alias gdt='git diff-tree --no-commit-id --name-only -r'
 compdef _git gdc=git diff-tree --no-commit-id --name-only -r
 alias gl='git pull'
