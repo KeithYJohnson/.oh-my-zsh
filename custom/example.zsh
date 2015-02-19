@@ -4,7 +4,8 @@
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
 alias zip='cd ~/projects/zipmark-service'
-alias zip='cd ~/projects/developer-docs'
-alias zip='cd ~/projects/zipmark-embed'
-alias zip='cd ~/projects/zipmark-web'
+alias zipd='cd ~/projects/developer-docs'
+alias zipe='cd ~/projects/zipmark-embed'
+alias zipw='cd ~/projects/zipmark-web'
+alias zipwi='cd ~/projects/zipmark-wiki'
 
