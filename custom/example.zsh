@@ -8,6 +8,7 @@ alias zipd='cd ~/projects/developer-docs'
 alias zipe='cd ~/projects/zipmark-embed'
 alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
+alias work='ssh worker'
 
 #unix
 alias tlf="tail -f"
