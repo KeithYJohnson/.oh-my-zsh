@@ -24,3 +24,7 @@ alias -g L='| wc -l'
 
 # Pretty print the path
 alias path='echo $PATH | tr -s ":" "\n"'
+
+#pow
+alias restart="touch tmp/restart.txt"
+alias restartpow="touch ~/.pow/restart.txt"
