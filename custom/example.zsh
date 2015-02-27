@@ -11,6 +11,9 @@ alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
 alias work='ssh worker'
 
+#cuz i cant type
+alias rpsec='rspec'
+
 #unix
 alias tlf="tail -f"
 alias ln='ln -v'
