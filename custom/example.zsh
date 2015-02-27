@@ -10,6 +10,7 @@ alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
 alias work='ssh worker'
+alias sand='ssh sandbox'
 
 #cuz i cant type
 alias rpsec='rspec'
