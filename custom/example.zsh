@@ -9,6 +9,7 @@ alias zipe='cd ~/projects/zipmark-embed'
 alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
+alias kwo='cd ~/projects/kwoter'
 alias kwoe='cd ~/projects/kwoter/frontend'
 alias kwor='cd ~/projects/kwoter/backend'
 
