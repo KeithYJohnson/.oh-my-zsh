@@ -9,6 +9,10 @@ alias zipe='cd ~/projects/zipmark-embed'
 alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
+alias kwoe='cd ~/projects/kwoter/frontend'
+alias kwor='cd ~/projects/kwoter/backend'
+
+
 alias work='ssh worker'
 alias sand='ssh sandbox'
 
