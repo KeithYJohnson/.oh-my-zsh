@@ -5,6 +5,7 @@
 #
 alias zip='cd ~/projects/zipmark-service'
 alias zipd='cd ~/projects/developer-docs'
+alias zipdm='cd ~/projects/demo'
 alias zipe='cd ~/projects/zipmark-embed'
 alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
