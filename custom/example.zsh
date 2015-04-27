@@ -14,6 +14,9 @@ alias kwo='cd ~/projects/kwoter'
 alias kwoe='cd ~/projects/kwoter/frontend'
 alias kwor='cd ~/projects/kwoter/backend'
 
+##OSS
+alias emws='cd ~/oss/website'
+
 
 alias work='ssh worker'
 alias sand='ssh sandbox'
