@@ -24,6 +24,9 @@ alias sand='ssh sandbox'
 #cuz i cant type
 alias rpsec='rspec'
 
+#projects
+alias rspece='rspec ./spec/integration/embed && rspec ./spec/acceptance/v3/embed/'
+
 #unix
 alias tlf="tail -f"
 alias ln='ln -v'
