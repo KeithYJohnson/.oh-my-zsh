@@ -46,6 +46,7 @@ alias rsd='rails server --debugger'
 # Rake aliases
 alias rdm='rake db:migrate'
 alias rdr='rake db:rollback'
+alias rdrd='rake db:migrate:redo'
 alias rdc='rake db:create'
 alias rds='rake db:seed'
 alias rdd='rake db:drop'

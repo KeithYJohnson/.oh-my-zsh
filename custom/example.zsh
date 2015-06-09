@@ -10,6 +10,7 @@ alias zipe='cd ~/projects/zipmark-embed'
 alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
+alias zipr='cd ~/projects/zipmark-ruby'
 alias kwo='cd ~/projects/kwoter'
 alias kwoe='cd ~/projects/kwoter/frontend'
 alias kwor='cd ~/projects/kwoter/backend'
@@ -25,7 +26,8 @@ alias sand='ssh sandbox'
 alias rpsec='rspec'
 
 #projects
-alias rspece='rspec ./spec/integration/embed && rspec ./spec/acceptance/v3/embed/'
+alias rspece='rspec ./spec/integration/embed ./spec/acceptance/v3/embed/'
+alias rspecv3='rspec ./spec/acceptance/v3/'
 
 #unix
 alias tlf="tail -f"
