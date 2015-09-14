@@ -11,9 +11,16 @@ alias zipw='cd ~/projects/zipmark-web'
 alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
 alias zipr='cd ~/projects/zipmark-ruby'
+alias ziph='cd ~/projects/zipmark-hubot'
 alias kwo='cd ~/projects/kwoter'
 alias kwoe='cd ~/projects/kwoter/frontend'
 alias kwor='cd ~/projects/kwoter/backend'
+
+## For fun
+alias play='cd ~/play'
+alias glob='cd ~/play/globalize'
+alias newsp='cd ~/play/newspaper'
+alias aptdash='cd ~/play/dashboard.aptible.com'
 
 ##OSS
 alias emws='cd ~/oss/website'
