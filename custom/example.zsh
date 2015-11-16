@@ -21,6 +21,7 @@ alias play='cd ~/play'
 alias glob='cd ~/play/globalize'
 alias newsp='cd ~/play/newspaper'
 alias aptdash='cd ~/play/dashboard.aptible.com'
+alias ssdirty='cd ~/play/ember-cli-store-dirty-tracking-example'
 
 ##OSS
 alias emws='cd ~/oss/website'
@@ -35,6 +36,9 @@ alias rpsec='rspec'
 #projects
 alias rspece='rspec ./spec/integration/embed ./spec/acceptance/v3/embed/'
 alias rspecv3='rspec ./spec/acceptance/v3/'
+
+## Alias hub to git.
+eval "$(hub alias -s)"
 
 #unix
 alias tlf="tail -f"
