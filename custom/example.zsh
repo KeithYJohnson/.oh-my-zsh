@@ -12,7 +12,7 @@ alias zipwi='cd ~/projects/zipmark-wiki'
 alias zipp='cd ~/projects/zipmark-presentment'
 alias zipr='cd ~/projects/zipmark-ruby'
 alias ziph='cd ~/projects/zipmark-hubot'
-alias kwo='cd ~/projects/kwoter'
+alias kwo='cd ~/play/kwoter'
 alias kwoe='cd ~/projects/kwoter/frontend'
 alias kwor='cd ~/projects/kwoter/backend'
 
@@ -22,6 +22,17 @@ alias glob='cd ~/play/globalize'
 alias newsp='cd ~/play/newspaper'
 alias aptdash='cd ~/play/dashboard.aptible.com'
 alias ssdirty='cd ~/play/ember-cli-store-dirty-tracking-example'
+
+## Movable Dirs
+alias mov='cd ~/movable'
+alias movmi='cd ~/movable/movableink'
+alias movoj='cd ~/movable/ojos'
+alias movcap='cd ~/movable/capturama'
+alias movh='cd ~/movable/hermes'
+alias movcan='cd ~/movable/canvas'
+alias movtu='cd ~/movable/thumbs-up'
+alias movt='cd ~/movable/templates'
+
 
 ##OSS
 alias emws='cd ~/oss/website'
