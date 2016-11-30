@@ -32,6 +32,11 @@ alias movh='cd ~/movable/hermes'
 alias movcan='cd ~/movable/canvas'
 alias movtu='cd ~/movable/thumbs-up'
 alias movt='cd ~/movable/templates'
+alias ids='cd ~/play/intro_to_data_science'
+alias nn='cd ~/play/neural_networks'
+alias ml='cd ~/courses/machine-learning'
+alias ml4='cd ~/courses/machine-learning/machine-learning-ex4/ex4'
+alias cm='cd ~/course-materials'
 
 
 ##OSS
@@ -69,3 +74,11 @@ alias path='echo $PATH | tr -s ":" "\n"'
 #pow
 alias restart="touch tmp/restart.txt"
 alias restartpow="touch ~/.pow/restart.txt"
+
+#matlab/octave
+alias o='octave'
+alias oct='octave'
+alias gu='gitup'
+alias a='atom'
+alias kag='cd ~/kaggle'
+alias tit='cd ~/kaggle/titantic'
